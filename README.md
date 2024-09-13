@@ -1,0 +1,1 @@
+# stem-mass-fraction-transient-pattern
